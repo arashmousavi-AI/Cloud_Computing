@@ -1,0 +1,9 @@
+id,sentence,aws_label,aws_positive,aws_negative,aws_neutral,aws_mixed,,,azure_label,azure_positive,azure_neutral,azure_negative,notes
+1,The movie was amazing and inspiring.,positive,0.99,0,0,0,,,positive,1,0,0,
+2,The service was disappointing.,negative,0,0.99,0,0,,,negative,0,0,1,
+3,"It was okay, nothing special.",mixed,0,0,0.02,0.96,,,neutral,0,1,0,
+4,Absolutely loved the performance last night.,positive,0.99,0,0,0,,,positive,1,0,0,
+5,The instructions were confusing and frustrating.,negative,0,0.99,0,0,,,negative,0,0,1,
+6,The overall experience was fine.,positive,0.97,0,0,0.01,,,neutral,0,1,0,
+7,I am not sure how I feel about it.,neural,0,0.33,0.63,0.02,,,neutral,0,0.97,0.03,
+8,"The design is clean, but the build quality is cheap.",mixed,0,0,0,0.99,,,negative,0.14,0.33,0.53,

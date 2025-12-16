@@ -1,0 +1,95 @@
+{
+    "Sentiment": {
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Positive": 0.9996641874313354,
+            "Negative": 0.00004100125443073921,
+            "Neutral": 0.00015754063497297466,
+            "Mixed": 0.00013725613825954497
+        }
+    }
+}
+
+{
+    "Sentiment": {
+        "Sentiment": "NEGATIVE",
+        "SentimentScore": {
+            "Positive": 0.00004764039840665646,
+            "Negative": 0.9998488426208496,
+            "Neutral": 0.00006656307232333347,
+            "Mixed": 0.00003693930193549022
+        }
+    }
+}
+
+{
+    "Sentiment": {
+        "Sentiment": "MIXED",
+        "SentimentScore": {
+            "Positive": 0.0044036260806024075,
+            "Negative": 0.024350639432668686,
+            "Neutral": 0.006931025069206953,
+            "Mixed": 0.9643147587776184
+        }
+    }
+}
+
+{
+    "Sentiment": {
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Positive": 0.9997290968894958,
+            "Negative": 0.00013597297947853804,
+            "Neutral": 0.00008420553058385849,
+            "Mixed": 0.000050699905841611326
+        }
+    }
+}
+
+{
+    "Sentiment": {
+        "Sentiment": "NEGATIVE",
+        "SentimentScore": {
+            "Positive": 0.00014321264461614192,
+            "Negative": 0.9993822574615479,
+            "Neutral": 0.00016097392654046416,
+            "Mixed": 0.0003135745646432042
+        }
+    }
+}
+
+{
+    "Sentiment": {
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Positive": 0.972798764705658,
+            "Negative": 0.0023854696191847324,
+            "Neutral": 0.009971746243536472,
+            "Mixed": 0.014844036661088467
+        }
+    }
+}
+
+{
+    "Sentiment": {
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Positive": 0.002864726120606065,
+            "Negative": 0.3352886140346527,
+            "Neutral": 0.6363369822502136,
+            "Mixed": 0.025509722530841827
+        }
+    }
+}
+
+{
+    "Sentiment": {
+        "Sentiment": "MIXED",
+        "SentimentScore": {
+            "Positive": 0.0016215138603001833,
+            "Negative": 0.001343105803243816,
+            "Neutral": 0.00006204496457939968,
+            "Mixed": 0.9969732761383057
+        }
+    }
+}

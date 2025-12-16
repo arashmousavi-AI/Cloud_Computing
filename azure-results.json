@@ -1,0 +1,114 @@
+{
+  "data": {
+    "kind": "SentimentAnalysisResults",
+    "results": {
+      "documents": [
+        {
+          "id": "1",
+          "sentiment": "mixed",
+          "confidenceScores": {
+            "positive": 0.43,
+            "neutral": 0.07,
+            "negative": 0.51
+          },
+          "sentences": [
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "neutral": 0,
+                "negative": 0
+              },
+              "offset": 0,
+              "length": 37,
+              "text": "The movie was amazing and inspiring. "
+            },
+            {
+              "sentiment": "negative",
+              "confidenceScores": {
+                "positive": 0,
+                "neutral": 0,
+                "negative": 1
+              },
+              "offset": 37,
+              "length": 31,
+              "text": "The service was disappointing. "
+            },
+            {
+              "sentiment": "neutral",
+              "confidenceScores": {
+                "positive": 0,
+                "neutral": 1,
+                "negative": 0
+              },
+              "offset": 68,
+              "length": 30,
+              "text": "It was okay, nothing special. "
+            },
+            {
+              "sentiment": "positive",
+              "confidenceScores": {
+                "positive": 1,
+                "neutral": 0,
+                "negative": 0
+              },
+              "offset": 98,
+              "length": 45,
+              "text": "Absolutely loved the performance last night. "
+            },
+            {
+              "sentiment": "negative",
+              "confidenceScores": {
+                "positive": 0,
+                "neutral": 0,
+                "negative": 1
+              },
+              "offset": 143,
+              "length": 49,
+              "text": "The instructions were confusing and frustrating. "
+            },
+            {
+              "sentiment": "neutral",
+              "confidenceScores": {
+                "positive": 0,
+                "neutral": 1,
+                "negative": 0
+              },
+              "offset": 192,
+              "length": 33,
+              "text": "The overall experience was fine. "
+            },
+            {
+              "sentiment": "neutral",
+              "confidenceScores": {
+                "positive": 0,
+                "neutral": 0.97,
+                "negative": 0.03
+              },
+              "offset": 225,
+              "length": 35,
+              "text": "I am not sure how I feel about it. "
+            },
+            {
+              "sentiment": "negative",
+              "confidenceScores": {
+                "positive": 0.14,
+                "neutral": 0.33,
+                "negative": 0.53
+              },
+              "offset": 260,
+              "length": 53,
+              "text": "The design is clean, but the build quality is cheap.\n"
+            }
+          ],
+          "warnings": []
+        }
+      ],
+      "errors": [],
+      "modelVersion": "2025-01-01"
+    }
+  },
+  "headers": {},
+  "status": 200,
+  "statusText": ""
+}
